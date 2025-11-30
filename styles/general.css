@@ -1,0 +1,18 @@
+p {
+    font-family: Roboto, Arial;
+}
+body { 
+    margin-right: 0px;
+    margin-left: 73px;
+    padding-top: 48px;
+}
+button {
+    cursor: pointer;
+    border: none;
+    background-color: white;
+}
+
+.header-icons, 
+.side-bar-flexbox button img {
+    width: 24px;
+}
