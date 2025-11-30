@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @BJG1549
-
-- 🌱 I’m currently learning python
-
+previous experience using python and html-css
+currently learning R during university statistics modules.
 
 <!---
 BJG1549/BJG1549 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
